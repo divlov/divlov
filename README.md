@@ -42,7 +42,7 @@ Here are a few things I like to build:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://readme-stats-rho-nine.vercel.app/api?username=divlov&show_icons=true&theme=tokyonight](https://github-readme-stats-flame-theta-38.vercel.app/api?username=divlov&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-flame-theta-38.vercel.app/api?username=divlov&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=divlov&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
