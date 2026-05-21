@@ -42,13 +42,12 @@ Here are a few things I like to build:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divlov&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divlov&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ## Connect with me
 
-- GitHub: [@divlov](https://github.com/divlov)
 - LinkedIn: [Divlov](https://www.linkedin.com/in/divlov/)
 - Portfolio: [My Portfolio](https://divlov.vercel.app)
 - Email: divlovjaiswal@gmail.com
