@@ -43,7 +43,7 @@ Here are a few things I like to build:
 
 <p align="center">
   <img src="https://github-readme-stats-flame-theta-38.vercel.app/api?username=divlov&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=divlov&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-flame-theta-38.vercel.app/api/top-langs/?username=divlov&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## Connect with me
