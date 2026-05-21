@@ -40,16 +40,6 @@ Full-stack developer who enjoys turning ideas into production-ready web products
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Project Name](https://github.com/divlov/your-repo) | One-line description of what it does | Next.js · Prisma · PostgreSQL |
-| [Project Name](https://github.com/divlov/your-repo) | One-line description of what it does | Node.js · Express · Redis |
-| [Project Name](https://github.com/divlov/your-repo) | One-line description of what it does | React · TypeScript · REST API |
-
----
-
 ## 📈 Currently Learning
 
 - Backend architecture and scalable system design
